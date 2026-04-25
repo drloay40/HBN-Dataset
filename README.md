@@ -17,7 +17,9 @@ This dataset bridges historical numeral systems with artificial intelligence, en
 
 
 \---
-
+## 🔗 Dataset Repository
+Access the dataset here:
+https://github.com/drloay40/HBN-Dataset
 
 
 \## 📊 Dataset Statistics
