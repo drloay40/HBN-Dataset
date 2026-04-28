@@ -360,10 +360,10 @@ You are free to use, share, and adapt the data with proper attribution.
 
 
 \* Loay Alzubaidi
-
+\* Jaber Jemai
 \* Ashraf Alkaraki 
-
 \* Abdulla Aljuaidi
+\* Ali Alghailani
 
 
 
